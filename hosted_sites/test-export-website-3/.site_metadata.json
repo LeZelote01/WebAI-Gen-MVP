@@ -1,0 +1,10 @@
+{
+  "website_id": "f79c5873-6aa8-4377-aa7f-7bae10b9c131",
+  "website_name": "Test Export Website",
+  "subdomain": "test-export-website-3",
+  "hosting_url": "http://test-export-website-3.localhost:3001",
+  "deployed_at": "2025-07-27T09:53:14.079585",
+  "ssl_enabled": false,
+  "owner_id": "12cd6fbd-f937-43df-a263-1a7fb61882c2",
+  "status": "active"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "ai-website-generator",
+  "version": "1.0.0",
+  "description": "Générateur de sites web intelligent avec IA - MVP Phase 1",
+  "main": "index.js",
+  "scripts": {
+    "dev": "concurrently \"npm run dev:backend\" \"npm run dev:frontend\"",
+    "dev:frontend": "cd frontend && npm run dev",
+    "dev:backend": "cd backend && uvicorn server:app --reload --host 0.0.0.0 --port 8001",
+    "build": "cd frontend && npm run build",
+    "start": "concurrently \"npm run start:backend\" \"npm run start:frontend\"",
+    "start:frontend": "cd frontend && npm start",
+    "start:backend": "cd backend && uvicorn server:app --host 0.0.0.0 --port 8001",
+    "install:all": "npm install && cd frontend && npm install && cd ../backend && pip install -r requirements.txt",
+    "setup": "npm run install:all && npm run setup:db",
+    "setup:db": "cd backend && python -c 'from database import init_db; init_db()'",
+    "test": "npm run test:frontend && npm run test:backend",
+    "test:frontend": "cd frontend && npm test",
+    "test:backend": "cd backend && pytest",
+    "lint": "cd frontend && npm run lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "private"
+  },
+  "keywords": [
+    "ai",
+    "website-generator",
+    "no-code",
+    "react",
+    "fastapi",
+    "mvp"
+  ],
+  "author": "AI Website Generator Team",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.0"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "python": ">=3.9.0"
+  }
+}

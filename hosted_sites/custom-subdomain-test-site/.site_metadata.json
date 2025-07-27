@@ -1,0 +1,10 @@
+{
+  "website_id": "36d06357-483f-4ab3-a10e-47e4ac056576",
+  "website_name": "Custom Subdomain Test Site",
+  "subdomain": "custom-subdomain-test-site",
+  "hosting_url": "http://custom-subdomain-test-site.localhost:3001",
+  "deployed_at": "2025-07-27T09:53:12.971844",
+  "ssl_enabled": false,
+  "owner_id": "12cd6fbd-f937-43df-a263-1a7fb61882c2",
+  "status": "active"
+}
