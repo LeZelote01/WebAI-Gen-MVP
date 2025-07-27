@@ -321,12 +321,12 @@ python -m pytest tests/
 - [ ] **Intégrations tierces** - APIs essentielles (Stripe, SendGrid)
 - [ ] **Collaboration simple** - Partage et commentaires
 
-### 🌟 Phase 3 - Fonctionnalités Avancées
-- [ ] E-commerce complet
-- [ ] Marketing automation
-- [ ] Analytics avancés
-- [ ] Collaboration équipe
-- [ ] Marketplace templates
+### 🌟 Phase 3 - Écosystème Complet
+- [ ] **E-commerce intégré** - Panier, paiements, inventaire
+- [ ] **Marketing automation** - Email, popups, lead scoring
+- [ ] **Analytics avancés** - Heatmaps, funnels, A/B testing
+- [ ] **Collaboration équipe** - Workflow, permissions, chat
+- [ ] **Marketplace templates** - Store premium avec commissions
 
 ## 🤝 Contribution
 
