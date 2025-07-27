@@ -313,12 +313,13 @@ python -m pytest tests/
 - [x] **Configuration SSL automatique**
 - [x] Tests complets
 
-### 🚀 Phase 2 - IA Avancée (En cours)
-- [ ] Intégration OpenAI/Claude
-- [ ] Génération de contenu intelligent
-- [ ] Éditeur drag & drop
-- [ ] Export de code source
-- [ ] Hébergement automatique
+### 🚀 Phase 2 - IA Avancée (🔄 Prochaine phase)
+- [ ] **Intégration OpenAI/Claude** - Génération de contenu intelligent
+- [ ] **Génération d'images DALL-E** - Création visuelle automatique
+- [ ] **Analytics basiques** - Google Analytics et métriques
+- [ ] **Éditeur drag & drop avancé** - Interface WYSIWYG complète
+- [ ] **Intégrations tierces** - APIs essentielles (Stripe, SendGrid)
+- [ ] **Collaboration simple** - Partage et commentaires
 
 ### 🌟 Phase 3 - Fonctionnalités Avancées
 - [ ] E-commerce complet
