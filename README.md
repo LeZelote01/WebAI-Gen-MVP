@@ -1,15 +1,16 @@
-# 🚀 AI WebGen - Générateur de Sites Web IA
+# 🚀 LeZelote-WebAI - Générateur de Sites Web IA
 
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Phase%201%20Terminée%20100%25-brightgreen" alt="Status">
   <img src="https://img.shields.io/badge/Version-1.5.0-blue" alt="Version">
-  <img src="https://img.shields.io/badge/License-MIT-yellow" alt="License">
+  <img src="https://img.shields.io/badge/License-Commercial%20Proprietary-red" alt="License">
   <img src="https://img.shields.io/badge/Tests-43%2F43%20✅-green" alt="Tests">
+  <img src="https://img.shields.io/badge/Model-SaaS%20Freemium-purple" alt="Business Model">
 </div>
 
 ## 📖 Description
 
-**AI WebGen** est un générateur de sites web intelligent qui utilise l'IA pour créer des sites professionnels en quelques minutes. Notre plateforme combine la puissance de l'intelligence artificielle avec la simplicité d'utilisation pour permettre à tous de créer des sites web exceptionnels.
+**LeZelote-WebAI** est un générateur de sites web intelligent utilisant l'IA pour créer des sites professionnels en quelques minutes. Plateforme SaaS freemium qui combine la puissance de l'intelligence artificielle avec la simplicité d'utilisation pour démocratiser la création de sites web.
 
 ### 🎯 Objectifs du Projet
 - Démocratiser la création de sites web
