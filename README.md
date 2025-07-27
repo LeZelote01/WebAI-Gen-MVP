@@ -12,11 +12,40 @@
 
 **LeZelote-WebAI** est un générateur de sites web intelligent utilisant l'IA pour créer des sites professionnels en quelques minutes. Plateforme SaaS freemium qui combine la puissance de l'intelligence artificielle avec la simplicité d'utilisation pour démocratiser la création de sites web.
 
-### 🎯 Objectifs du Projet
-- Démocratiser la création de sites web
-- Réduire le temps de développement de semaines à minutes
-- Offrir des templates professionnels et modernes
-- Fournir une interface intuitive sans compétences techniques requises
+### 🎯 Vision & Modèle Économique
+- **Mission :** Démocratiser la création de sites web grâce à l'IA
+- **Modèle :** SaaS Freemium avec plans Premium et Enterprise  
+- **Objectif :** Réduire le temps de développement de semaines à minutes
+- **Projections :** €150K (An 1) → €2.4M (An 2) → €12M (An 3)
+
+## 💰 Plans Tarifaires
+
+### 🆓 **Plan Gratuit**
+- 1 site maximum
+- Templates de base uniquement
+- Support communautaire
+- Parfait pour tester la plateforme
+
+### 💎 **Plan Pro - €19/mois**
+- Sites illimités + hébergement inclus
+- IA générative (contenu et images)
+- Templates premium
+- Analytics avancés
+- Support prioritaire email
+
+### 👥 **Plan Team - €49/mois**  
+- Collaboration jusqu'à 5 utilisateurs
+- Workflow d'approbation
+- Analytics d'équipe
+- Intégrations CRM/marketing
+- Support chat + email
+
+### 🏢 **Plan Enterprise - Sur devis**
+- Utilisateurs illimités + SSO
+- APIs custom + webhooks
+- Support dédié avec SLA
+- Sécurité renforcée
+- Formation et intégrations sur mesure
 
 ## ✨ Fonctionnalités Actuelles (Phase 1 - 100% Terminée)
 
