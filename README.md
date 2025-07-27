@@ -130,8 +130,8 @@
 
 ```bash
 # Cloner le repository
-git clone https://github.com/LeZelote01/LeZelote.git
-cd LeZelote
+git clone https://github.com/LeZelote01/LeZelote-WebAI.git
+cd LeZelote-WebAI
 
 # Installation Backend
 cd backend
