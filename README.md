@@ -455,15 +455,31 @@ Pour plus d'informations : [Voir la licence complète](LICENSE.md)
 
 ## 👥 Équipe
 
+- **Fondateur** : LeZelote  
 - **Développeur Principal** : LeZelote01
-- **Architecture** : IA Assistant
-- **Tests** : Agent de test automatisé
+- **Architecture & IA** : Agent de développement IA
+- **Tests & QA** : Agent de test automatisé
 
-## 📞 Contact
+## 📞 Contact & Support
 
-- **GitHub** : [LeZelote01](https://github.com/LeZelote01)
-- **Email** : contact@aiwebgen.com
-- **Documentation** : [docs.aiwebgen.com](https://docs.aiwebgen.com)
+### 🎯 Contact Business
+- **Email** : legal@lezelote.com
+- **Business** : contact@lezelote-webai.com
+- **Partnerships** : partners@lezelote.com
+
+### 💬 Support Technique
+| Plan | Support | SLA |
+|------|---------|-----|
+| **Gratuit** | Communauté | Best effort |
+| **Pro** | Email prioritaire | < 24h |
+| **Team** | Chat + Email | < 12h |
+| **Enterprise** | Support dédié | Custom SLA |
+
+### 🌐 Liens Utiles
+- **GitHub** : [LeZelote01/LeZelote-WebAI](https://github.com/LeZelote01/LeZelote-WebAI)
+- **Documentation** : [docs.lezelote-webai.com](https://docs.lezelote-webai.com)
+- **Status Page** : [status.lezelote-webai.com](https://status.lezelote-webai.com)
+- **Changelog** : [Voir les releases](https://github.com/LeZelote01/LeZelote-WebAI/releases)
 
 ---
 
