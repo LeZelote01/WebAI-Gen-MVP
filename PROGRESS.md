@@ -199,6 +199,16 @@
 4. **Optimiser l'interface utilisateur**
 5. **Préparer les tests utilisateur**
 
+### **Version 1.6 - 27/07/2025 - LICENCE COMMERCIALE AJOUTÉE**
+- ✅ **Licence commerciale propriétaire** complète créée et intégrée
+- ✅ **Modèle économique SaaS** : Plans Free, Pro (€19/mois), Team (€49/mois), Enterprise
+- ✅ **README.md actualisé** avec information de licence et modèle business
+- ✅ **Termes et conditions** détaillés avec 12 sections complètes
+- ✅ **Structure tarifaire** définie : Freemium → Premium → Enterprise
+- ✅ **Revenue streams** identifiés : Abonnements (70%) + Services (15%) + Templates (8%) + Plugins (5%) + SEO (2%)
+- ✅ **Projections financières** : €150K (An 1) → €2.4M (An 2) → €12M (An 3)
+- 📋 **Documentation légale** production-ready pour commercialisation
+
 ### **Version 1.5 - 27/07/2025 - HÉBERGEMENT INTÉGRÉ COMPLET**
 - ✅ **Système d'hébergement intégré** complètement opérationnel
 - ✅ **5 endpoints API** : deploy, undeploy, redeploy, ssl, list
