@@ -330,18 +330,30 @@ python -m pytest tests/
 
 ## 🤝 Contribution
 
+> **Note :** Ce projet est sous licence commerciale propriétaire. Les contributions externes nécessitent un accord de licence contributeur (CLA).
+
 ### Comment Contribuer
-1. Fork le projet
-2. Créer une branche (`git checkout -b feature/AmazingFeature`)
-3. Commit vos changements (`git commit -m 'Add AmazingFeature'`)
-4. Push vers la branche (`git push origin feature/AmazingFeature`)
-5. Ouvrir une Pull Request
+1. Contactez l'équipe pour discuter de votre contribution
+2. Signez l'accord de licence contributeur (CLA)
+3. Fork le projet avec autorisation
+4. Créer une branche (`git checkout -b feature/AmazingFeature`)
+5. Commit vos changements (`git commit -m 'Add AmazingFeature'`)
+6. Push vers la branche (`git push origin feature/AmazingFeature`)
+7. Ouvrir une Pull Request
+
+### Types de Contributions Acceptées
+- 🐛 **Bug reports** - Rapports de bugs avec reproduction
+- 💡 **Feature requests** - Suggestions d'améliorations
+- 📖 **Documentation** - Améliorations de la documentation
+- 🎨 **Templates** - Nouveaux templates (avec revenue sharing)
+- 🔌 **Intégrations** - Connecteurs pour services tiers
 
 ### Guidelines de Développement
 - Utilisez des commits conventionnels
 - Ajoutez des tests pour les nouvelles fonctionnalités
 - Respectez les standards de code (ESLint, Black)
 - Documentez vos fonctions et composants
+- Suivez les principes d'architecture établis
 
 ## 🔒 Sécurité
 
