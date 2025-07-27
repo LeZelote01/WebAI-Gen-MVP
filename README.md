@@ -484,6 +484,7 @@ Pour plus d'informations : [Voir la licence complète](LICENSE.md)
 ---
 
 <div align="center">
-  <p>⭐ Si ce projet vous plaît, n'hésitez pas à lui donner une étoile ! ⭐</p>
-  <p>Créé avec ❤️ par l'équipe AI WebGen</p>
+  <p>⭐ Si ce projet vous intéresse pour votre business, contactez-nous ! ⭐</p>
+  <p>Créé avec ❤️ par l'équipe LeZelote</p>
+  <p><strong>SaaS • IA • Innovation</strong></p>
 </div>
