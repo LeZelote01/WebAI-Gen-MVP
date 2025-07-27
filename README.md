@@ -432,9 +432,26 @@ python init_templates.py
 - ✅ Configuration initiale
 - ✅ Architecture de base
 
-## 📜 License
+## 📜 Licence
 
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
+Ce projet est sous **licence commerciale propriétaire**. Voir le fichier [LICENSE.md](LICENSE.md) pour les termes complets.
+
+### 🔒 Droits et Restrictions
+- ✅ **Utilisation gratuite** - Plan free avec fonctionnalités limitées
+- ✅ **Usage commercial** - Autorisé avec les plans payants
+- ✅ **Sites créés** - Propriété de l'utilisateur
+- ❌ **Code source** - Propriété exclusive de LeZelote
+- ❌ **Redistribution** - Interdite sans autorisation
+- ❌ **Modification** - Du code source interdite
+- ❌ **Reverse engineering** - Strictement interdit
+
+### 💰 Plans et Tarifs
+- **Gratuit** : 1 site, templates de base
+- **Pro (€19/mois)** : Sites illimités, IA, hébergement
+- **Team (€49/mois)** : Collaboration, intégrations avancées  
+- **Enterprise** : Sur devis, fonctionnalités custom
+
+Pour plus d'informations : [Voir la licence complète](LICENSE.md)
 
 ## 👥 Équipe
 
