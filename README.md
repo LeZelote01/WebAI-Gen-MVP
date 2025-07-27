@@ -204,7 +204,7 @@ REACT_APP_VERSION=1.3.0
 ## 📁 Structure du Projet
 
 ```
-LeZelote/
+LeZelote-WebAI/
 ├── backend/                 # Backend FastAPI
 │   ├── server.py           # Serveur principal
 │   ├── models.py           # Modèles SQLAlchemy
@@ -212,6 +212,8 @@ LeZelote/
 │   ├── auth.py             # Authentification JWT
 │   ├── database.py         # Configuration DB
 │   ├── init_templates.py   # Initialisation templates
+│   ├── website_exporter.py # Export de sites
+│   ├── hosting_server.py   # Serveur d hébergement
 │   └── requirements.txt    # Dépendances Python
 ├── frontend/               # Frontend React
 │   ├── public/            # Fichiers statiques
@@ -223,9 +225,11 @@ LeZelote/
 │   │   └── utils/         # Utilitaires
 │   ├── package.json       # Dépendances Node.js
 │   └── tailwind.config.js # Configuration Tailwind
-├── ROADMAP.md             # Feuille de route
-├── PROGRESS.md            # Suivi des progrès
-└── README.md              # Documentation
+├── hosted_sites/          # Sites hébergés
+├── ROADMAP.md             # Feuille de route complète
+├── PROGRESS.md            # Suivi détaillé des progrès
+├── LICENSE.md             # Licence commerciale propriétaire
+└── README.md              # Documentation projet
 ```
 
 ## 🔗 API Endpoints
